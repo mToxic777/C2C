@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6288-855E
+
+ Directory of C:\Users\meres\OneDrive\Documents\C&C
+
+29-04-2024  18:45    <DIR>          .
+29-04-2024  18:44    <DIR>          ..
+29-04-2024  18:42             1,510 Spotify license.txt
+29-04-2024  18:36        14,767,319 Spotify mod.exe
+               2 File(s)     14,768,829 bytes
+               2 Dir(s)  92,072,652,800 bytes free
