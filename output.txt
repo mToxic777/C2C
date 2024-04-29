@@ -1,0 +1,9 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6288-855E
+
+ Directory of C:\Users\meres\output
+
+29-04-2024  18:44    <DIR>          .
+29-04-2024  18:36    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  109,892,681,728 bytes free
